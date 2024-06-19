@@ -10,7 +10,7 @@ import {
 import { UserService } from './user.service';
 import { JwtGuard } from 'src/auth/guards/jwt-auth.guard';
 import { ConditionSelectionArrayDto } from 'src/dto/conditionSelectionDto';
-import { SessionDeleteDto } from 'src/dto/SessionDeleteDto';
+import { SessionDeleteDto } from 'src/dto/sessionDeleteDto';
 import { UpdateUserDto } from 'src/dto/updateDto';
 
 @Controller('user')
