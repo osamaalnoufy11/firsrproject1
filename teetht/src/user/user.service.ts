@@ -12,7 +12,7 @@ import { UserCondition } from 'src/entities/userCondition.entity';
 import { Condition } from 'src/entities/condition.entity';
 import { ConditionLevel } from 'src/entities/patientCondition.entity';
 import { UserSession } from 'src/entities/userSession.entity';
-import { SessionDTO } from 'src/dto/SessionDto';
+import { SessionDTO } from 'src/dto/sessionDto';
 import { SessionDeleteDto } from 'src/dto/SessionDeleteDto';
 import { Doctor } from 'src/entities/doctor.entity';
 import { FindDoctorDTO } from 'src/dto/findDoctorsOrUserDto';
